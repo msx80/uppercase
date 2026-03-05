@@ -3,6 +3,6 @@
 	"owner": "msx80",
 	"name": "uppercase",
 	"description":"make strings uppercase (test library)",
-	"version": "2.3.4",
+	"version": "2.3.5",
 	"dependencies": []
 }
